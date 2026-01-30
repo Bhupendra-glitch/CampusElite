@@ -6,6 +6,7 @@ CampusElite is an AI-powered all-in-one campus ecosystem designed to help colleg
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/ca608c8c-6bce-4889-a175-163819fa62ab" />
 
 
+
 ## 📌 Problem Statement
 
 Today, students rely on multiple disconnected platforms for:
