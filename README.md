@@ -75,13 +75,14 @@ CampusElite helps students move confidently from classroom learning to real-worl
 
 ## 🛠 Tech Stack (Example)
 
-- Frontend: React / Next.js  
-- Backend: Node.js / Express  
-- Database: MongoDB / Firebase  
+- Frontend: Typescript, Python, HTML
+- Backend: 
+- Database: Firebase  
 - AI: LLM APIs for notes, tests, and interviews  
-- Authentication: JWT / Firebase Auth  
+- Authentication: Firebase Auth
+-  Google AI Tools Integrated: Gemini 2.5 Flash, Gemini API, Google Ai Studio, Vertex AI 
 
-*(Adjust based on your actual stack.)*
+
 
 ---
 
