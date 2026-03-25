@@ -1,0 +1,26 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+
+# Database (MongoDB async)
+motor==3.4.0
+pymongo==4.6.1
+
+# Environment variables
+python-dotenv==1.0.1
+pydantic==2.6.4
+pydantic-settings==2.2.1
+
+# Authentication
+passlib[bcrypt]==1.7.4
+python-jose==3.3.0
+
+# AI (Gemini)
+google-generativeai==0.5.0
+
+# Embeddings (RAG)
+sentence-transformers==2.6.1
+torch>=2.0.0
+
+# Utilities
+bson==0.5.10
+numpy>=1.24.0
